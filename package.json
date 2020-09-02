@@ -1,0 +1,23 @@
+{
+  "name": "debug-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelleschutter/http-debug-express.git"
+  },
+  "author": {
+    "name": "Jelle Schutter",
+    "email": "jelle@schutter.xyz",
+    "url": "https://jelle.schutter.xyz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jelleschutter/http-debug-express/issues"
+  },
+  "homepage": "https://github.com/jelleschutter/http-debug-express#readme"
+}
